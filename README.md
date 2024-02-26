@@ -9,4 +9,5 @@ On your render dashboard, locate the service name and supply it within the `main
 ## Response
 
 **'Service suspended!'**: Your service has been suspended.
+
 **'Service resumed!'**: Your service has been resumed.
